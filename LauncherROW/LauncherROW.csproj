@@ -26,12 +26,13 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/Olasche/olasche.github.io/master/publish/</InstallUrl>
+    <UpdateUrl>https://raw.githubusercontent.com/Olasche/olasche.github.io/master/publish/</UpdateUrl>
     <SupportUrl>https://www.riftofwar.com</SupportUrl>
     <ErrorReportUrl>https://www.riftofwar.com</ErrorReportUrl>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationRevision>10</ApplicationRevision>
     <ApplicationVersion>0.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
