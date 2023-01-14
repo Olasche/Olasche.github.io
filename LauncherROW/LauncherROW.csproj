@@ -25,14 +25,14 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://olasche.github.io/publish/</InstallUrl>
+    <InstallUrl>https://raw.githubusercontent.com/Olasche/olasche.github.io/master/publish/</InstallUrl>
     <UpdateUrl>http://ftp.byethost32.com/ROWLauncher/</UpdateUrl>
     <SupportUrl>https://www.riftofwar.com</SupportUrl>
     <ErrorReportUrl>https://www.riftofwar.com</ErrorReportUrl>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationRevision>9</ApplicationRevision>
     <ApplicationVersion>0.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
