@@ -2,8 +2,8 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
-    <PublishUrlHistory>https://raw.githubusercontent.com/Arthwin/LauncherROW/master/publish/|ftp://ftp.byethost32.com/ROWLauncher/|publish\</PublishUrlHistory>
-    <InstallUrlHistory>https://raw.githubusercontent.com/Arthwin/LauncherROW/master/publish/|http://ftp.byethost32.com/ROWLauncher/|\\localhost\ROWInstaller\|http://rowlauncher.byethost32.com/</InstallUrlHistory>
+    <PublishUrlHistory>C:\Users\Daniel\Desktop\Repos\LauncherROW\publish\|https://raw.githubusercontent.com/Arthwin/LauncherROW/master/publish/|ftp://ftp.byethost32.com/ROWLauncher/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://olasche.github.io/publish/|https://raw.githubusercontent.com/Arthwin/LauncherROW/master/publish/|http://ftp.byethost32.com/ROWLauncher/|\\localhost\ROWInstaller\|http://rowlauncher.byethost32.com/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
