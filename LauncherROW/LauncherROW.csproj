@@ -26,7 +26,6 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/Olasche/olasche.github.io/master/publish/</InstallUrl>
-    <UpdateUrl>http://ftp.byethost32.com/ROWLauncher/</UpdateUrl>
     <SupportUrl>https://www.riftofwar.com</SupportUrl>
     <ErrorReportUrl>https://www.riftofwar.com</ErrorReportUrl>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>

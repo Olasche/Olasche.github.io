@@ -4,10 +4,10 @@
     <ProjectView>ProjectFiles</ProjectView>
     <PublishUrlHistory>C:\Users\Daniel\Desktop\Repos\LauncherROW\publish\|https://raw.githubusercontent.com/Arthwin/LauncherROW/master/publish/|ftp://ftp.byethost32.com/ROWLauncher/|publish\</PublishUrlHistory>
     <InstallUrlHistory>https://raw.githubusercontent.com/Olasche/olasche.github.io/master/publish/|https://olasche.github.io/publish/|https://raw.githubusercontent.com/Arthwin/LauncherROW/master/publish/|http://ftp.byethost32.com/ROWLauncher/|\\localhost\ROWInstaller\</InstallUrlHistory>
-    <SupportUrlHistory />
-    <UpdateUrlHistory />
+    <SupportUrlHistory>https://www.riftofwar.com</SupportUrlHistory>
+    <UpdateUrlHistory>http://ftp.byethost32.com/ROWLauncher/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
-    <ErrorReportUrlHistory />
+    <ErrorReportUrlHistory>https://www.riftofwar.com</ErrorReportUrlHistory>
     <FallbackCulture>en-US</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
