@@ -15,8 +15,8 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftp://ftp.byethost32.com/ROWLauncher/</PublishUrl>
-    <Install>false</Install>
+    <PublishUrl>C:\Users\Daniel\Desktop\Repos\LauncherROW\publish\</PublishUrl>
+    <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
@@ -25,7 +25,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://ftp.byethost32.com/ROWLauncher/</InstallUrl>
+    <InstallUrl>https://raw.githubusercontent.com/Arthwin/LauncherROW/master/publish/</InstallUrl>
     <UpdateUrl>http://ftp.byethost32.com/ROWLauncher/</UpdateUrl>
     <SupportUrl>https://www.riftofwar.com</SupportUrl>
     <ErrorReportUrl>https://www.riftofwar.com</ErrorReportUrl>
