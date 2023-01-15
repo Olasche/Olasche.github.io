@@ -24,8 +24,6 @@ namespace LauncherROW
     {
         private static readonly string version_file_link = "https://drive.google.com/uc?export=download&id=1Pst2I1aOIeB8232pYD6nV7u2uE72mqVf";
         private static readonly string game_rar_link = "https://drive.google.com/uc?export=download&id=12KKDjbVDjMM-5e6fL1OfeEoLouxbzgnb";
-        private static readonly string game_zip_link = "https://drive.google.com/file/d/1ROGbLva1X9ZFmNECi0dbIstjc0yOVEki/view?usp=sharing";
-        private static readonly string game_link = game_rar_link;
         private static readonly string zip_extension = ".rar";
         private static readonly string builds_folder_name = "Builds";
         private static readonly string executable_name = "ROW";
@@ -121,7 +119,7 @@ namespace LauncherROW
                     _onlineVersion = new Version(webClient.DownloadString(version_file_link));
                 }
                 webClient.DownloadFileCompleted += new AsyncCompletedEventHandler(DownloadGameCompletedCallback);
-                webClient.DownloadFileAsync(new Uri(game_link), gameZip, _onlineVersion);
+                webClient.DownloadFileAsync(new Uri(game_rar_link), gameZip, _onlineVersion);
             }
             catch (Exception ex)
             {
@@ -137,15 +135,6 @@ namespace LauncherROW
             {
                 string onlineVersion = ((Version)e.UserState).ToString();
 
-
-                //gameZip, rootPath
-
-
-
-
-
-
-
                 using (var archive = RarArchive.Open(gameZip))
                 {
                     foreach (var entry in archive.Entries.Where(entry => !entry.IsDirectory))
@@ -157,23 +146,6 @@ namespace LauncherROW
                         });
                     }
                 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
                 File.Delete(gameZip);
 
